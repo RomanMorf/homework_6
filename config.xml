@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="io.cordova.hellocordova" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+  <name>TikTuk</name>
+  <description>Sample App TikTuk</description>
+  <author email="kostromichov.roman@gmail.com" href="https://www.facebook.com/roman.morf">
+    Kostromichov Roman
+  </author>
+
+  <content src="index.html" />
+
+  <allow-intent href="http://*/*" />
+  <allow-intent href="https://*/*" />
+
+  <platform name="android">
+    <icon src="res/android/images/ldpi.png" density="ldpi" />
+    <icon src="res/android/images/mdpi.png" density="mdpi" />
+    <icon src="res/android/images/hdpi.png" density="hdpi" />
+    <icon src="res/android/images/xhdpi.png" density="xhdpi" />
+    <icon src="res/android/images/xxhdpi.png" density="xxhdpi" />
+    <icon src="res/android/images/xxxhdpi.png" density="xxxhdpi" />  
+  </platform>
+  
+</widget>
